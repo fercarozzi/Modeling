@@ -1,0 +1,15 @@
+Parameters for the initial grid
+
+
+dy=8
+dx=8
+
+miny=1
+maxy=1000
+oy=1
+
+minx=1
+maxx=200
+ox=1
+
+

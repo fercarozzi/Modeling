@@ -1,0 +1,15 @@
+Parameters for the desired grid
+#max is the maximum coordinate it gets, not a cell index.
+
+dy=20
+dx=20
+
+miny=10
+maxy=990
+oy=10
+
+minx=10
+maxx=190
+ox=10
+
+

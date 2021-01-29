@@ -1,0 +1,20 @@
+The package includes tools to model traces with irregular coordinates. 
+ 
+To run execute 
+
+> include("main.jl")
+
+
+Dependencies to install before testing: 
+- SeisMain: https://github.com/SeismicJulia/SeisMain.jl.git
+- SeisProcessing: https://github.com/SeismicJulia/SeisProcessing.jl.git
+ Registered packages:
+- FFTW: 
+
+
+folder /in has the input data
+folder /src has the source codes.
+folder /out has the synthetic volumes. 
+
+If you use this package, please cite
+Carozzi F. and Sacchi, M.D., 2021. Interpolated Multichannel Singular Spectrum Analysis (I-MSSA): a reconstruction method that honors true trace coordinates: Geophysics.
